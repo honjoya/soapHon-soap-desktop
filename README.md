@@ -69,8 +69,7 @@ npm run build
 
 ```bash
 # Sem assinatura de codigo (para uso local)
-CSC_IDENTITY_AUTO_DISCOVERY=false npx electron-builder --config electron-builder.yml --mac
-
+npx electron-vite build && CSC_IDENTITY_AUTO_DISCOVERY=false npx electron-builder --config electron-builder.yml --mac                                                                                                                                                       
 # Gera: dist/SoapHon-x.x.x-arm64.dmg e dist/SoapHon-x.x.x-arm64-mac.zip
 ```
 
