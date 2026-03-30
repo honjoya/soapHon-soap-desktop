@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="resources/preview.png" alt="soapHon preview" width="800"/>
+  <img src="resources/previewok.png" alt="soapHon preview" width="800"/>
 </p>
 
 <p align="center">
