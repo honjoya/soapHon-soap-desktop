@@ -12,10 +12,6 @@
   <a href="#portugues">Portugues</a> | <a href="#english">English</a>
 </p>
 
-<p align="center">
-  <iframe src="https://github.com/sponsors/honjoya/button" title="Sponsor honjoya" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-</p>
-
 ---
 
 <a id="portugues"></a>
