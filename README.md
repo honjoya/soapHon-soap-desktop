@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Cliente SOAP multiplataforma com interface desktop moderna.</strong>
+  <strong>Deskotp SOAP Client multiplataforma com interface desktop moderna.</strong>
 </p>
 
 <p align="center">
