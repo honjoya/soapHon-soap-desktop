@@ -9,15 +9,11 @@
 </p>
 
 <p align="center">
-  <strong>Cliente SOAP multiplataforma com interface desktop moderna.</strong>
+  <strong>Deskotp SOAP Client multiplataforma com interface desktop moderna.</strong>
 </p>
 
 <p align="center">
   <a href="#portugues">Portugues</a> | <a href="#english">English</a>
-</p>
-
-<p align="center">
-  <iframe src="https://github.com/sponsors/honjoya/button" title="Sponsor honjoya" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 </p>
 
 ---
@@ -77,8 +73,7 @@ npm run build
 
 ```bash
 # Sem assinatura de codigo (para uso local)
-CSC_IDENTITY_AUTO_DISCOVERY=false npx electron-builder --config electron-builder.yml --mac
-
+npx electron-vite build && CSC_IDENTITY_AUTO_DISCOVERY=false npx electron-builder --config electron-builder.yml --mac                                                                                                                                                       
 # Gera: dist/SoapHon-x.x.x-arm64.dmg e dist/SoapHon-x.x.x-arm64-mac.zip
 ```
 
