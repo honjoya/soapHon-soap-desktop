@@ -1,0 +1,21 @@
+appId: com.soaphon.app
+productName: SoapHon
+icon: resources/icon.icns
+directories:
+  buildResources: resources
+  output: dist
+files:
+  - out/**/*
+mac:
+  target:
+    - dmg
+    - zip
+  icon: resources/icon.icns
+  category: public.app-category.developer-tools
+win:
+  target:
+    - nsis
+linux:
+  target:
+    - AppImage
+    - deb
