@@ -1,6 +1,10 @@
 # SoapHon
 
 <p align="center">
+  <img src="resources/preview.png" alt="soapHon preview" width="500"/>
+</p>
+
+<p align="center">
   <img src="src/logo.png" alt="SoapHon Logo" width="128" />
 </p>
 
